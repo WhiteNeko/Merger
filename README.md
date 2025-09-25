@@ -8,11 +8,11 @@ pushes the changes to the main remote. The script automatically detects the
 remote's default branch.
 
 Arguments:
-   $1 (remote_url)    : The URL of the remote Git repository to add.
-   $2 (local_git_repo): The path to the local Git repository where the project will be added.
-   $3 (folder_to_store): The name of the parent folder within the local repository.
-   $4 (repo_name)     : The name of the subdirectory and the temporary remote.
+   $1 (remote_url)    : The URL of the remote Git repository to add.\n
+   $2 (local_git_repo): The path to the local Git repository where the project will be added.\n
+   $3 (folder_to_store): The name of the parent folder within the local repository.\n
+   $4 (repo_name)     : The name of the subdirectory and the temporary remote.\n
 
 # Example Usage:
-   ./add_project.sh <URL> /path/to/local/repo projects my-project-name
-   <URL> also works as the local URL like C:/Users/Local/Repo 
+   ./add_project.sh <URL> /path/to/local/repo projects my-project-name\n
+   <URL> also works as the local URL like C:/Users/Local/Repo \n
