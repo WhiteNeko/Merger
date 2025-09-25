@@ -7,7 +7,7 @@ It fetches a project from a remote URL, adds it as a subdirectory, and
 pushes the changes to the main remote. The script automatically detects the
 remote's default branch.
 
-Arguments:
+# Arguments:
 
    $1 (remote_url)    : The URL of the remote Git repository to add (or the local git repo).
    
