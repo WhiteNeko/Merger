@@ -1,7 +1,7 @@
 # Merger
 Mergest Projects into one big repo... Compatible with sparse-checkout 
 
-# --- Description ---
+# Description
 Script to automate adding a project as a Git subtree to a local repository.
 It fetches a project from a remote URL, adds it as a subdirectory, and
 pushes the changes to the main remote. The script automatically detects the
