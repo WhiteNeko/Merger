@@ -21,4 +21,4 @@ remote's default branch.
 
    ./add_project.sh URL /path/to/local/repo projects my-project-name
    
-   <URL> also works as the local URL like C:/Users/Local/Repo 
+   URL also works as the local URL like C:/Users/Local/Repo 
