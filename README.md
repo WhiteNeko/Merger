@@ -9,7 +9,7 @@ remote's default branch.
 
 Arguments:
 
-   $1 (remote_url)    : The URL of the remote Git repository to add.
+   $1 (remote_url)    : The URL of the remote Git repository to add (or the local git repo).
    
    $2 (local_git_repo): The path to the local Git repository where the project will be added.
    
@@ -20,4 +20,5 @@ Arguments:
 # Example Usage:
 
    ./add_project.sh <URL> /path/to/local/repo projects my-project-name
+   
    <URL> also works as the local URL like C:/Users/Local/Repo 
