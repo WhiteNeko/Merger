@@ -1,5 +1,5 @@
 # Merger
-Mergest Projects into one big repo... Compatible with sparse-checkout 
+Mergest Projects into one big repo... Compatible with sparse-checkout  (made by AI)
 
 # Description
 Script to automate adding a project as a Git subtree to a local repository.
